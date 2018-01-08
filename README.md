@@ -1,5 +1,5 @@
 # From-fringe-revelry-to-growth-industry
-Appendixes for conference paper "From fringe revelry to growth industry"
+Online appendixes for conference paper "From fringe revelry to growth industry"
 
 **Online appendix I:**
 
