@@ -29,7 +29,7 @@ Content:
 
 1.	DJ corpus The Guardian:
 Topic #0:
-people home time world night old way week young good work police going place make local city away pages got children head come big left school street best end days
+people home time world night old way week young good work police going place make local city away pages got children head come big left school street best end days /n
 Topic #1:
 radio station bbc music breakfast audience listeners media capital news programme evans stations chris london virgin channel presenter commercial live television million broadcasting week broadcast programmes air itv listening shows
 Topic #2:
