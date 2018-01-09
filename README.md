@@ -12,6 +12,7 @@ Online appendixes for conference paper "From fringe revelry to growth industry"
 "acid house" OR acidhouse OR "big beat" OR bigbeat OR "break beat" OR breakbeat OR "break core" OR breakcore OR "chip tune" OR chiptune OR "dark ambient" OR darkambient OR "deep house" OR deephouse OR "drum ’n’ bass"  OR "dub techno" OR dubtechno OR "dub step" OR dubstep OR "euro house" OR eurohouse OR gabber OR "garage house"  OR garagehouse OR "goa trance" OR goatrance OR "happy hardcore" OR happyhardcore OR "hard house" OR hardhouse OR "hard trance" OR hardtrance OR "hard style" OR hardstyle OR "hip house" OR hiphouse OR  IDM OR "intelligent dance muziek" OR illbient OR "italo dance" OR italodance OR "jump style" OR jumpstyle OR makina OR "progressive house" OR progressivehouse OR "progressive trance" OR progressivetrance OR "psy trance" OR pystrance OR "speed garage" OR speedgarage OR "speed core" OR speedcore OR "tech house" OR techhouse OR "tribal house" OR tribalhouse OR "trip hop" OR triphop OR (techno W/10 muziek) OR (tekno W/10 muziek) OR (trance W/10 muziek) OR (acid w/10 muziek) OR (breaks w/10 muziek) OR (drone w/10 muziek) OR (drone w/10 house) OR (ghetto w/10 muziek) OR (ghetto w/10 house) OR (glitch w/10 muziek) OR (glitch w/10 house) OR (grime w/10 muziek) OR (grime w10 house) OR (hardcore w/10 house) OR (house w/10 muziek) OR (jungle w/10 muziek) OR (jungle w/10 house) OR (dance w/10 muziek) OR (electronic w/10 muziek) OR (rave w/10 muziek) OR (rave w/10 party)
 
 
+
 **Online appendix II: topics’ 30 top-words.**
 
 Content:
@@ -26,6 +27,7 @@ Content:
 7.	Combined sub-corpora the Guardian
 8.	Combined sub-corpora the NRC
 9.	Combined sub-corpora the New York Times
+
 
 
 **1)	DJ corpus The Guardian:**
@@ -91,7 +93,7 @@ Topic #19:
 caruso shiver cushion lab switching poll wall street trading cent points market dollar lower jones change dow faint scandals west index mark yesterday federal rise growth early party london point
 
 
-2)	DJ corpus the NRC:
+**2)	DJ corpus the NRC:**
 
 Topic #0:
 film the films grote charlie held klote fast zien guy regisseur cinema house how blue filmfestival johnny beelden ian beeld personages documentaire tony from scene drugs factory heaven camera theater
@@ -154,7 +156,7 @@ Topic #19:
 literatuur schrijvers non literaire verhaal journalistiek bill auteurs blad pagina feiten ian reportage kortom plein weigert buitengewoon structuur toonaangevende schrijver vrede onderscheid merkte jack stukjes roger schuiven zakte faam ochtends
 
 
-3)	DJ corpus The New York Times:
+**3)	DJ corpus The New York Times:**
 
 Topic #0:
 choreographic company ago oil prices billion companies million stocks points shares buy analysts trading fur yesterday opec week rates president price industry budget city american money rose rate share annual
@@ -217,7 +219,7 @@ Topic #19:
 theater museum east directed paintings brantley chamber hours ballet street galleries dinner bar tickets century gates hotel cotter south photographs county isherwood chelsea park christopher today library free featuring city
 
 
-4)	Dance corpus the Guardian:
+**4)	Dance corpus the Guardian:**
 
 carnival dst hill close brazilian alexis rio brazil sky notting parade sports shipping alex samba morrison caribbean world wild golf jaxx aerobics christina trinidad doherty sao outlook dancing floats surf
 
@@ -279,7 +281,7 @@ Topic #19:
 russian asian soviet moscow russia union petersburg western pakistan bhangra stalin russians shostakovich boris couture sawhney vladimir punjabi iran taliban dior malik mylo yuri pol sinclair nitin rostropovich casino mcburney
 
 
-5)	Dance corpus the NRC:
+**5)	Dance corpus the NRC:**
 
 Topic #0:
 disc nighttown jockey toegankelijker bruine labels ronald slag house sjoerd dansmuziek baantje krullen velzen digitaal echt gast leo type club acid funk gulden roxy soort mensen publiek nederlandse orkest the
@@ -342,7 +344,7 @@ Topic #19:
 vuurwerk rustige campagne strijkers lichte middle road feestjes verschrikkelijk moeizame jim nood bizar oproept veelbelovende bandjes shit ziekenhuis branden soft easy stem dak zit begrijp onderdeel jaarlijkse goed listening soms
 
 
-6)	Dance corpus the New York Times:
+**6)	Dance corpus the New York Times:**
 
 Topic #0:
 school students book children university books life college schools high student education parents novel class writing family history teacher professor child published teachers writer house wrote war stories read reading
@@ -405,7 +407,7 @@ Topic #19:
 street chelsea tribeca scott disc john selective west east leonard disney christmas tom radio weekend ann village mark joe hall roy michael mercury dave thompson teenage dog jones movies phil
 
 
-7)	Merged corpora the Guardian:
+**7)	Merged corpora the Guardian:**
 
 Topic #0:
 bbc film surrey request application newspapers producer spokeswoman pat incidents cover tested succeeded covering ability occurred riot requests automatic subsequent proceedings rare ulster feature funeral counties charged staff fashion prevention
@@ -468,7 +470,7 @@ Topic #19:
 guide dance club clubs night london sound djs hip ibiza hop techno preview live bass big party set jazz street like soul disco album scene bar funk garage nights john
 
 
-8)	Merged corpora the NRC:
+**8)	Merged corpora the NRC:**
 
 Topic #0:
 kunst amsterdam dance baby event bands laten bezocht popmuziek uitverkocht lowlands paradiso zangeressen ritmische subtiele triphop vrouwen ruimte kleine groepen optreden krijgen festival stemmen cultuur voorzien radio october samples mensen
@@ -531,7 +533,7 @@ Topic #19:
 festival the podium optreden kunst concert publiek urban groep amsterdam paradiso zanger band liedjes groepen rock gehoord nieuwe nederlandse grote bezoekers black bands tent gitarist editie jazz amerikaanse gisteren zaal
 
 
-9)	Merged corpora the New York Times:
+**9)	Merged corpora the New York Times:**
 
 Topic #0:
 street jazz tonight tomorrow west band village pareles east admission tickets cover manhattan ratliff avenue minimum trio blues pianist saxophonist charge sets playing lower group quartet drummer weekend includes plays
