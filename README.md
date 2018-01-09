@@ -15,7 +15,8 @@ Online appendixes for conference paper "From fringe revelry to growth industry"
 
 **Online appendix II: topics’ 30 top-words.**
 
-Content:
+*Content:*
+
 1.	DJ corpus The Guardian
 2.	DJ corpus the NRC
 3.	DJ corpus The New York Times
