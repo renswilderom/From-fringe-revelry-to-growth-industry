@@ -3,11 +3,11 @@ Online appendixes for conference paper "From fringe revelry to growth industry"
 
 **Online appendix I:**
 
-The query used for both the New York Times and the Guardian:
+*The query used for both the New York Times and the Guardian:*
 
 "acid house" OR acidhouse OR "big beat" OR bigbeat OR "break beat" OR breakbeat OR "break core" OR breakcore OR "chip tune" OR chiptune OR "dark ambient" OR darkambient OR "deep house" OR deephouse OR "drum ’n’ bass"  OR "dub techno" OR dubtechno OR "dub step" OR dubstep OR "euro house" OR eurohouse OR gabber OR "garage house"  OR garagehouse OR "goa trance" OR goatrance OR "happy hardcore" OR happyhardcore OR "hard house" OR hardhouse OR "hard trance" OR hardtrance OR "hard style" OR hardstyle OR "hip house" OR hiphouse OR  IDM OR "intelligent dance music" OR illbient OR "italo dance" OR italodance OR "jump style" OR jumpstyle OR makina OR "progressive house" OR progressivehouse OR "progressive trance" OR progressivetrance OR "psy trance" OR pystrance OR "speed garage" OR speedgarage OR "speed core" OR speedcore OR "tech house" OR techhouse OR "tribal house" OR tribalhouse OR "trip hop" OR triphop OR (techno W/10 music) OR (tekno W/10 music) OR (trance W/10 music) OR (acid w/10 music) OR (breaks w/10 music) OR (drone w/10 music) OR (drone w/10 house) OR (ghetto w/10 music) OR (ghetto w/10 house) OR (glitch w/10 music) OR (glitch w/10 house) OR (grime w/10 music) OR (grime w10 house) OR (hardcore w/10 house) OR (house w/10 music) OR (jungle w/10 music) OR (jungle w/10 house) OR (dance w/10 music) OR (electronic w/10 music) OR (rave w/10 music) OR (rave w/10 party)
 
-The query used for the NRC:
+*The query used for the NRC:*
 
 "acid house" OR acidhouse OR "big beat" OR bigbeat OR "break beat" OR breakbeat OR "break core" OR breakcore OR "chip tune" OR chiptune OR "dark ambient" OR darkambient OR "deep house" OR deephouse OR "drum ’n’ bass"  OR "dub techno" OR dubtechno OR "dub step" OR dubstep OR "euro house" OR eurohouse OR gabber OR "garage house"  OR garagehouse OR "goa trance" OR goatrance OR "happy hardcore" OR happyhardcore OR "hard house" OR hardhouse OR "hard trance" OR hardtrance OR "hard style" OR hardstyle OR "hip house" OR hiphouse OR  IDM OR "intelligent dance muziek" OR illbient OR "italo dance" OR italodance OR "jump style" OR jumpstyle OR makina OR "progressive house" OR progressivehouse OR "progressive trance" OR progressivetrance OR "psy trance" OR pystrance OR "speed garage" OR speedgarage OR "speed core" OR speedcore OR "tech house" OR techhouse OR "tribal house" OR tribalhouse OR "trip hop" OR triphop OR (techno W/10 muziek) OR (tekno W/10 muziek) OR (trance W/10 muziek) OR (acid w/10 muziek) OR (breaks w/10 muziek) OR (drone w/10 muziek) OR (drone w/10 house) OR (ghetto w/10 muziek) OR (ghetto w/10 house) OR (glitch w/10 muziek) OR (glitch w/10 house) OR (grime w/10 muziek) OR (grime w10 house) OR (hardcore w/10 house) OR (house w/10 muziek) OR (jungle w/10 muziek) OR (jungle w/10 house) OR (dance w/10 muziek) OR (electronic w/10 muziek) OR (rave w/10 muziek) OR (rave w/10 party)
 
@@ -27,7 +27,8 @@ Content:
 8.	Combined sub-corpora the NRC
 9.	Combined sub-corpora the New York Times
 
-1)	DJ corpus The Guardian:
+
+**1)	DJ corpus The Guardian:**
 
 Topic #0:
 people home time world night old way week young good work police going place make local city away pages got children head come big left school street best end days 
