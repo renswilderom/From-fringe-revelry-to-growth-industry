@@ -408,7 +408,7 @@ Topic #19:
 street chelsea tribeca scott disc john selective west east leonard disney christmas tom radio weekend ann village mark joe hall roy michael mercury dave thompson teenage dog jones movies phil
 
 
-**7)	Merged corpora the Guardian:**
+**7)	Combined sub-corpora the Guardian:**
 
 Topic #0:
 bbc film surrey request application newspapers producer spokeswoman pat incidents cover tested succeeded covering ability occurred riot requests automatic subsequent proceedings rare ulster feature funeral counties charged staff fashion prevention
@@ -471,7 +471,7 @@ Topic #19:
 guide dance club clubs night london sound djs hip ibiza hop techno preview live bass big party set jazz street like soul disco album scene bar funk garage nights john
 
 
-**8)	Merged corpora the NRC:**
+**8)	Combined sub-corpora the NRC:**
 
 Topic #0:
 kunst amsterdam dance baby event bands laten bezocht popmuziek uitverkocht lowlands paradiso zangeressen ritmische subtiele triphop vrouwen ruimte kleine groepen optreden krijgen festival stemmen cultuur voorzien radio october samples mensen
@@ -534,7 +534,7 @@ Topic #19:
 festival the podium optreden kunst concert publiek urban groep amsterdam paradiso zanger band liedjes groepen rock gehoord nieuwe nederlandse grote bezoekers black bands tent gitarist editie jazz amerikaanse gisteren zaal
 
 
-**9)	Merged corpora the New York Times:**
+**9) Combined sub-corpora the New York Times:**
 
 Topic #0:
 street jazz tonight tomorrow west band village pareles east admission tickets cover manhattan ratliff avenue minimum trio blues pianist saxophonist charge sets playing lower group quartet drummer weekend includes plays
